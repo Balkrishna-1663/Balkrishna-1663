@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balkrishna-1663
 - 👀 I’m interested in back-end development , c++ programming. 
-- 🌱 I’m currently learning html , DBMS , python and OPERATING SYSTEM
+- 🌱 I’m currently learning html , DBMS , C++ and DSA . 
 - 💞️ I’m looking to collaborate with productive people
 - 📫 How to reach me : contact- +91 84462-49646
 
