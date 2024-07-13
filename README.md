@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @Balkrishna-1663
-- 👀 I’m interested in back-end development , c++ programming. 
-- 🌱 I’m currently learning Java and DSA . 
-- 💞️ I’m looking to collaborate with productive people
+- 👋 Hi, I’m @Balkrishna singh
+- 👀 I’m interested in WEB Development , C# programming and ASP.net Development. 
+- 🌱 I’m currently learning C# and Entity framework . 
+- 💞️ I’m looking to collaborate with productive people and company
 - 📫 How to reach me :📧kishansingh223311@gmail.com
 
 <!---
