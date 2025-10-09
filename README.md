@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Balkrishna singh
 - 👀 I’m interested in WEB Development , C# programming and ASP.net Development. 
-- 🌱 I’m currently learning C# and Entity framework . 
+- 🌱 I’m currently learning C#, Angular and Entity framework . 
 - 💞️ I’m looking to collaborate with productive people and company
 - 📫 How to reach me :📧kishansingh223311@gmail.com
 
